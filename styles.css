@@ -1,0 +1,13 @@
+body{
+    background: bisque
+}
+
+button {
+    border: solid black 3px;
+    background: lightcoral; 
+    color: white; 
+    padding: 5px; 
+    font-size: 20px;
+    margin: auto;
+
+}
