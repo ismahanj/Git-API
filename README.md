@@ -1,7 +1,7 @@
 # Github Repository project
 
 ## Description
-This is a project that allows users to see the latest GitHub repositories from the Github API. As the user clicks the button more repositories are loaded. 
+This is a project that allows users to see the latest GitHub repositories from the Github API. As the user scrolls more repositories are loaded. 
 
 ## Table of Content 
 - index.html
